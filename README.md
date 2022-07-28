@@ -1,0 +1,1 @@
+# Aadhar-Text-Detection-and-Extraction
